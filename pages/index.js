@@ -12,7 +12,7 @@ export default function Home() {
         <h1 className={styles.title}>Hi! It's Edgar! 👋</h1>
 
         <p className={styles.description}>
-          I'm UX Designer, based on Aracaju-SE, Brazil!
+          I'm an UX Designer, based on Aracaju-SE, Brazil!
         </p>
 
         <div className={styles.grid}>
