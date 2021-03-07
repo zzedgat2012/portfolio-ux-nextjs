@@ -21,7 +21,7 @@ export default function Home() {
             <p>Find out my recent projects and case studies.</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
+          <a href="https://blog-ux-tech.vercel.app" className={styles.card}>
             <h3>Blog &rarr;</h3>
             <p>The place where I wrote about UX & Tech.</p>
           </a>
