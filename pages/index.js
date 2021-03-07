@@ -5,23 +5,11 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Edgar Ferreira</title>
+        <title>design - Edgar Ferreira</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <header className={styles.header}>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
-        </a>
-        <button className={styles.card}>
-          Home
-        </button>
-      </header>
       <main className={styles.main}>
-        <h1 className={styles.title}>Edgar Ferreira</h1>
+        <h1 className={styles.title}>Hi! It's Edgar! 👋</h1>
 
         <p className={styles.description}>
           I'm UX Designer, based on Aracaju-SE, Brazil!
