@@ -16,7 +16,7 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
+          <a href="https://projects.edgar-ferreira.com/" className={styles.card}>
             <h3>Projects &rarr;</h3>
             <p>Find out my recent projects and case studies.</p>
           </a>
@@ -27,7 +27,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
+            href="https://anchor.fm/musubi/"
             className={styles.card}
           >
             <h3>Podcast &rarr;</h3>
@@ -35,7 +35,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://www.instagram.com/edgarferreira95/"
             className={styles.card}
           >
             <h3>Social &rarr;</h3>
@@ -43,17 +43,6 @@ export default function Home() {
           </a>
         </div>
       </main>
-
-      <footer className={styles.footer}>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{" "}
-          <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
-        </a>
-      </footer>
     </div>
   );
 }
